@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/MuhandiramTB/main/banner.png" alt="Full-Stack Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/your-username/MuhandiramTB/Thilan98/banner.png" alt="Full-Stack Developer Banner" width="100%" />
 </p>
 
 
