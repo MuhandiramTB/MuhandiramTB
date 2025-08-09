@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Thilan</h1>
 <h3 align="center">Full-Stack Developer | Consultant @ Bistec Global</h3>
 
@@ -15,6 +13,28 @@
 - 🌱 I’m learning more about **software architecture** and **cloud deployment**
 - 💬 Ask me about **React, Node.js, TypeScript, or full-stack development**
 - 📫 Reach me at: [tbuddhika98@gmail.com](mailto:tbuddhika98@gmail.com)
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Thilan98&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Thilan98&theme=tokyonight" alt="GitHub streak" height="180" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilan98&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilan98&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
 
 ---
 
@@ -39,5 +59,4 @@
 ---
 
 ### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilan-buddhika-874286263)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilan-buddhika-874286263)
