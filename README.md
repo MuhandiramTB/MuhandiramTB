@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhandiramTB/Thilan98/banner.png" alt="Full-Stack Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/MuhandiramTB/Thilan98/main/banner.png" alt="Full-Stack Developer Banner" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Thilan</h1>
