@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="Full-Stack Developer Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Thilan</h1>
 <h3 align="center">Full-Stack Developer | Consultant @ Bistec Global</h3>
 
