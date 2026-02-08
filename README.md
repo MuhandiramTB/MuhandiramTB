@@ -15,37 +15,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-```typescript
-const thilan = {
-    location: "Colombo, Sri Lanka 🇱🇰",
-    currentRole: "Associate Software Engineer @ Bistec Global",
-    code: ["TypeScript", "JavaScript", "C#", "SQL"],
-    technologies: {
-        frontend: {
-            frameworks: ["React", "Angular", "Next.js"],
-            styling: ["Tailwind CSS", "SASS", "Material-UI", "Bootstrap"],
-            stateManagement: ["Redux", "Context API", "RxJS", "NgRx"]
-        },
-        backend: {
-            frameworks: [".NET Core", "ASP.NET", "Node.js", "Express"],
-            architecture: ["REST API", "Microservices", "Clean Architecture", "MVC"]
-        },
-        databases: ["PostgreSQL", "SQL Server", "MongoDB"],
-        devOps: ["Docker", "Azure", "Git", "CI/CD"],
-        tools: ["VS Code", "Visual Studio", "Postman", "Azure DevOps"]
-    },
-    currentFocus: "Building scalable enterprise applications",
-    passions: ["Clean Code", "System Design", "Problem Solving"],
-    lifestyle: "Coffee ☕ + Code 💻 = Happiness 😊"
-};
-```
-
----
-
 ## 💼 Professional Journey
 
 **Associate Software Engineer | Consultant**  
@@ -89,7 +58,6 @@ const thilan = {
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -98,7 +66,6 @@ const thilan = {
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -138,7 +105,7 @@ const thilan = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tbuddhika98&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhandiramTB&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
