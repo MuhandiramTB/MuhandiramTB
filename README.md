@@ -96,21 +96,6 @@
 
 ---
 
-## 💻 What I Bring to the Table
-
-```javascript
-const skills = {
-    problemSolving: "Breaking down complex problems into elegant solutions",
-    codeQuality: "Writing clean, maintainable, and well-documented code",
-    collaboration: "Effective team player with strong communication skills",
-    learning: "Quick learner, always staying updated with latest technologies",
-    delivery: "Meeting deadlines while maintaining high code quality standards",
-    mindset: "User-focused development with attention to detail"
-};
-```
-
----
-
 ## 🌟 Core Competencies
 
 <div align="center">
